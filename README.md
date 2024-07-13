@@ -8,3 +8,5 @@ I trained it on triplet loss and measured
 the ID rate metric, also tried to use SVM to achieve at least some 
 separation on the plane, it seemed to give some results, but this is not what I would like
 ```
+Look at Face_recognition_experiments.ipynb file
+```
