@@ -1,4 +1,4 @@
-# Face Recognition Project
+# Face Recognition Project  fdkfdkfkdkf
 This project implements the face recognition pipeline very crookedly in three stages: 
 1) Detection using MTCNN
 2) Alignment using Xception(I do not know why it is so designated, although everywhere it is essentially just getting facial nodes)
